@@ -1,0 +1,11 @@
+commit 243f1af42e8faefa4c12f6b029052493091c0c85
+Author: Tolu Aluko <taaluko@ncsu.edu>
+Date:   Wed Apr 22 13:28:27 2026 -0400
+
+    updates to my webpage and stylesheet.
+
+commit faafc56c65e6dcda9842bc005785c6bd07a5706b
+Author: wh4le-IN-the-OC34N <twangs1255@gmail.com>
+Date:   Tue Apr 21 12:50:24 2026 -0400
+
+    Initial commit
